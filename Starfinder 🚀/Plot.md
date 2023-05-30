@@ -1,6 +1,6 @@
 Luego de huir de Nemenar, la party llega a Riven shroud, donde tienen 12 días para hacer lo que puedan para retrasar la llegada de Nylessa. Para esto, deben encontrar y destruir los 3 drift beacons que se encuentran en la esfera, reactivar el arma destruye-mundos de la esfera, e infiltrarse en Nylessa (el planeta) para volverla vulnerable al arma, antes de que consuma el sol y comience un viaje de destrucción por la galaxia.
 
-El minimo según la party de días que tienen antes de que llegue Nylessa es 9 días.
+El mínimo según la party de días que tienen antes de que llegue Nylessa es 9 días.
 
 
 30 de Marzo:
@@ -12,7 +12,6 @@ El minimo según la party de días que tienen antes de que llegue Nylessa es 9 d
 - Fueron a hablar con Julianne, que les dió un par de quests, especifcametne la de ir a reparar la fabrica de UPBs
 - Fueron a visitar a Grasliex y conocieron a Herbert
 - Pasó un dia
-
 Llevan 1 dia.
 
 16 de Abril:

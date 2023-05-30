@@ -7,6 +7,8 @@ Herbert tiene una pequeña clinica que lleva con ayuda de Joy, una droide enferm
 
 Joy puede usar Raise Dead (12k), Reanimate (10k), Remove Radioactivity (3k), Remove Affliction (1k)
 
+Herbert también vende serums.
+
 ### Quests
 - Herbert conoce la enfermedad que tienen, y les puede ayudar a curarse gratis, si le ayudan a ordenar la clínica
 - Herbert tiene una máquina para generar spell ampoules, pero le falta una pieza. 
