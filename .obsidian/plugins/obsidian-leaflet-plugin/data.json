@@ -1,0 +1,345 @@
+{
+  "mapMarkers": [
+    {
+      "id": "leaflet-map",
+      "locked": false,
+      "lastAccessed": 1685302755228,
+      "markers": [
+        {
+          "id": "ID_dab9c93a6a9a",
+          "type": "Estudio del Amanecer",
+          "loc": [
+            -2.837890625,
+            2.466796875
+          ],
+          "link": "Del Roble",
+          "layer": "%5B%5BmapaConElementosPostAla.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b92a2aa9eb1b",
+          "type": "Estudio del Amanecer",
+          "loc": [
+            -2.0333099365234375,
+            2.23828125
+          ],
+          "link": "De la Sangre",
+          "layer": "%5B%5BmapaConElementosPostAla.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_dabb2b79cbb9",
+          "type": "Estudio del Amanecer",
+          "loc": [
+            -1.6182708740234375,
+            2.00390625
+          ],
+          "link": "Del Cuarzo",
+          "layer": "%5B%5BmapaConElementosPostAla.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6a989958db39",
+          "type": "Estudio del Amanecer",
+          "loc": [
+            -1.9356536865234375,
+            2.841796875
+          ],
+          "link": "Del Telar",
+          "layer": "%5B%5BmapaConElementosPostAla.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9b1aeab9fb1b",
+          "type": "Estudio del Amanecer",
+          "loc": [
+            -3.0264739990234375,
+            2.248046875
+          ],
+          "link": "Del Latón",
+          "layer": "%5B%5BmapaConElementosPostAla.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_09ca7bf9c85a",
+          "type": "Estudio del Amanecer",
+          "loc": [
+            -3.232421875,
+            2.4052734375
+          ],
+          "link": "De las Estrellas",
+          "layer": "%5B%5BmapaConElementosPostAla.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.4105,
+            0.5516666666666666
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4aa83b9aa87a",
+          "type": "Estudio del Amanecer",
+          "loc": [
+            -3.6827239990234375,
+            1.7607421875
+          ],
+          "link": "Del Óxido",
+          "layer": "%5B%5BmapaConElementosPostAla.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7ab8da3b6869",
+          "type": "Estudio del Amanecer",
+          "loc": [
+            -4.4794921875,
+            2.6611328125
+          ],
+          "link": "Del Hueso",
+          "layer": "%5B%5BmapaConElementosPostAla.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.45416666666666666,
+            0.7645
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7b1bebf978fb",
+          "type": "Estudio del Amanecer",
+          "loc": [
+            -3.377166748046875,
+            1.46484375
+          ],
+          "link": "De la Onda",
+          "layer": "%5B%5BmapaConElementosPostAla.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3bdbca388b6b",
+          "type": "Estudio del Amanecer",
+          "loc": [
+            -2.2392578125,
+            1.6513671875
+          ],
+          "link": "Del Sol",
+          "layer": "%5B%5BmapaConElementosPostAla.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.2818333333333333,
+            0.38216666666666665
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f9a8fa7a0a09",
+          "type": "Estudio del Amanecer",
+          "loc": [
+            -2.144744873046875,
+            3.951171875
+          ],
+          "link": "De la Puerta",
+          "layer": "%5B%5BmapaConElementosPostAla.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_fb48abd8080b",
+          "type": "default",
+          "loc": [
+            -2.7159271240234375,
+            1.94140625
+          ],
+          "layer": "%5B%5BmapaConElementosPostAla.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Capital del Imperio del Sol",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_484b494b3beb",
+          "type": "default",
+          "loc": [
+            -2.8663177490234375,
+            2.0673828125
+          ],
+          "link": "Crisol de Golems",
+          "layer": "%5B%5BmapaConElementosPostAla.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4ae81a6b5809",
+          "type": "default",
+          "loc": [
+            -3.0899505615234375,
+            2.42578125
+          ],
+          "layer": "%5B%5BmapaConElementosPostAla.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Base ilitida",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_880a8a0bfa7a",
+          "type": "default",
+          "loc": [
+            -3.8524169921875,
+            3
+          ],
+          "layer": "%5B%5BmapaConElementosPostAla.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Undermountain",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1bcad9597b0b",
+          "type": "Estudio del Amanecer",
+          "loc": [
+            -3.89495849609375,
+            2.375
+          ],
+          "link": "T57 - EL Estudio del Hueso",
+          "layer": "%5B%5BmapaConElementosPostAla.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "wm extras/Mapa.md"
+      ]
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#dddddd",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    }
+  },
+  "markerIcons": [
+    {
+      "type": "Estudio del Amanecer",
+      "iconName": "warehouse",
+      "color": "#0084ff",
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    }
+  ],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": false,
+  "layerMarkers": true,
+  "previousVersion": "5.6.1",
+  "version": {
+    "major": 5,
+    "minor": 6,
+    "patch": 1
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {},
+  "enableDraw": true,
+  "defaultUnitType": "imperial",
+  "defaultTile": "https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png",
+  "defaultAttribution": "Map tiles by <a href=\"http://stamen.com\">Stamen Design</a>, under <a href=\"http://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>. Data by <a href=\"http://openstreetmap.org\">OpenStreetMap</a>, under <a href=\"http://www.openstreetmap.org/copyright\">ODbL</a>.",
+  "defaultTileSubdomains": "a,b,c"
+}

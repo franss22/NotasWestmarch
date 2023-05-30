@@ -1,0 +1,4 @@
+# Los últimos días del mundo
+Campaña inspirada por Dark Souls (3): 
+El mundo está llegando a su fin, hace tiempo que la gente nace sin alma. Los dioses, pequeños seres frágiles, guardan con cuidado las ultimas almas del mundo. Una plaga que rápidamente envejece a quienes la contraen azota el reino.
+La party es contratada para intentar detener un culto que quiere destruir cosas y está ayudando a repartir la enfermedad, sin saber que el mundo se está acabando. ¿Qué harán? ¿Aceptarán y ayudarán al mundo a morir con el menor sufrimiento posible?¿O lucharán contra el inevitable avance de la entropía?

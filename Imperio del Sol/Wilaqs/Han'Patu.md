@@ -1,0 +1,1 @@
+El Wilaq del estudio del Óxido. Luego de pasar mucho tiempo revisando el poder de los demonios, concluyó que la mejor manera de detener a Boreas es sumir el plano material en el Abismo, y luego migrar a los que se puedan a un demiplano (o defenderes dentro del abismo.)

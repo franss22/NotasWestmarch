@@ -1,0 +1,117 @@
+{
+  "main": {
+    "id": "0072714880db83f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "797347751fba6749",
+        "type": "leaf",
+        "dimension": 54.60687960687961,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Mesas/T45 - Jormungandr.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "5c7684c073a0b591",
+        "type": "leaf",
+        "dimension": 45.3931203931204,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Estudios del Imperio/Overview.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c0c89fcd9e451727",
+    "type": "split",
+    "children": [
+      {
+        "id": "90fb985943fa9ba6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "77482abc727368d1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "501b6b719bff4bed",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Mesas",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 232
+  },
+  "right": {
+    "id": "42fce0460c130c74",
+    "type": "split",
+    "children": [
+      {
+        "id": "18ea8e03b5941970",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "83e29245a2d401a7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Mesas/T45 - Jormungandr.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "797347751fba6749",
+  "lastOpenFiles": [
+    "Mesas/Extra - Volver al presente.md",
+    "Estudios del Imperio/Wilaqs/Habilidades.md",
+    "Estudios del Imperio/Wilaqs/Legend Lore.md",
+    "Estudios del Imperio/Overview.md",
+    "Mesas/T44 Cazería de Demonios.md",
+    "Mesas/T42 - El abismo mira de vuelta.md",
+    "Mesas/T41 - Si miras en el abismo.md",
+    "Mesas/T40 - Ebajo el mar.md",
+    "Mesas/T38 - Estudiando la Carne.md",
+    "Pasted image 20220626214334.png"
+  ]
+}

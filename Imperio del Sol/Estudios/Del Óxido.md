@@ -1,0 +1,1 @@
+El estudio del Óxido lidiaba con la investigación acerca de (y el desarrollo de medidas contra) 
