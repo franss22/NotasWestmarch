@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Imperio del Sol/Wilaqs/Quetzaly.md",
+                "file": "Imperio del Sol/Historia.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Imperio del Sol/Wilaqs/Quetzaly.md",
+                "file": "Imperio del Sol/Historia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Imperio del Sol/Wilaqs/Quetzaly.md",
+                "file": "Imperio del Sol/Historia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Imperio del Sol/Wilaqs/Quetzaly.md"
+                "file": "Imperio del Sol/Historia.md"
               }
             }
           }
@@ -149,8 +149,8 @@
   },
   "active": "16a86826f0470628",
   "lastOpenFiles": [
-    "Starfinder 🚀/JAL 18000.md",
     "Imperio del Sol/Wilaqs/Quetzaly.md",
+    "Starfinder 🚀/JAL 18000.md",
     "Starfinder 🚀/Items Interesantes.md",
     "wm extras/Timeline.md",
     "wm extras/Mapa.md",
