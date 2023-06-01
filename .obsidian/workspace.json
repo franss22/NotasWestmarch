@@ -1,43 +1,19 @@
 {
   "main": {
-    "id": "0072714880db83f0",
+    "id": "e8c13cddac4f2b53",
     "type": "split",
     "children": [
       {
-        "id": "664d302e9c92e725",
+        "id": "357b31261bb02cbd",
         "type": "tabs",
         "children": [
           {
-            "id": "6051d1e2c22bf871",
+            "id": "16a86826f0470628",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Starfinder 🚀/Plot.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8b4be0fe3e32bde4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Imperio del Sol/Historia.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fa309ac81d7bc408",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Imperio del Sol/Estudios/Overview.md",
+                "file": "Starfinder 🚀/Items Interesantes.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "c0c89fcd9e451727",
+    "id": "83babd90d5dad29c",
     "type": "split",
     "children": [
       {
-        "id": "90fb985943fa9ba6",
+        "id": "c49886b788e81aa6",
         "type": "tabs",
         "children": [
           {
-            "id": "77482abc727368d1",
+            "id": "c952bbdb1dac6152",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -67,12 +43,12 @@
             }
           },
           {
-            "id": "501b6b719bff4bed",
+            "id": "cb339c346f888c61",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Mesas",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,7 +58,7 @@
             }
           },
           {
-            "id": "082267860c7197b3",
+            "id": "142dc24f04449800",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -93,23 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232
+    "width": 300
   },
   "right": {
-    "id": "42fce0460c130c74",
+    "id": "eff1617ac999d169",
     "type": "split",
     "children": [
       {
-        "id": "18ea8e03b5941970",
+        "id": "720542344b87d985",
         "type": "tabs",
         "children": [
           {
-            "id": "83e29245a2d401a7",
+            "id": "5fffc51828785e04",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Starfinder 🚀/Plot.md",
+                "file": "Starfinder 🚀/Items Interesantes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +93,39 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "06f823ae0e5f1b99",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Starfinder 🚀/Items Interesantes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6450bfd053a81f6e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d0b8ea1626371c4a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Starfinder 🚀/Items Interesantes.md"
               }
             }
           }
@@ -132,52 +141,58 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "6051d1e2c22bf871",
+  "active": "16a86826f0470628",
   "lastOpenFiles": [
-    "Starfinder 🚀/Nave abandonada.md",
-    "Starfinder 🚀/JAL 18000.md",
-    "Starfinder 🚀/Items Interesantes.md",
+    "wm extras/Timeline.md",
+    "wm extras/Mapa.md",
+    "wm extras/Historia del Westmarch.md",
+    "wm extras/Edificios++.md",
+    "wm extras",
+    "Starfinder 🚀/Images/Ray.jpg",
+    "Starfinder 🚀/Images/Pasted image 20230507170713.png",
+    "Starfinder 🚀/Images/Pasted image 20230312123035.png",
+    "Starfinder 🚀/Images/Pasted image 20230311233118.png",
+    "Starfinder 🚀/Images/Pasted image 20230311232136.png",
+    "Starfinder 🚀/Images/Pasted image 20230311231559.png",
+    "Starfinder 🚀/Images/Pasted image 20230311231340.png",
+    "Starfinder 🚀/Images/Pasted image 20230311223946.png",
+    "Starfinder 🚀/Images/Pasted image 20230310002706.png",
+    "Starfinder 🚀/Images/Pasted image 20230310002638.png",
     "Starfinder 🚀/Gorongo NPCs/Ray.md",
     "Starfinder 🚀/Gorongo NPCs/Julianne.md",
-    "Starfinder 🚀/Gorongo NPCs/Herbert George.md",
-    "Starfinder 🚀/Enfermedad.md",
-    "Pasted image 20230516164801.png",
-    "Pasted image 20230516164459.png",
-    "Pasted image 20230509191429.png",
-    "Pasted image 20230509190236.png",
-    "Pasted image 20230509184838.png",
-    "Starfinder 🚀/Plot.md",
-    "Starfinder 🚀/Riven Shroud.md",
     "Starfinder 🚀/Gorongo NPCs/Hugo.md",
-    "Starfinder 🚀/Julianne-pop-os.md",
-    "Imperio del Sol/Wilaqs/Legend Lore.md",
-    "Starfinder 🚀/Gorongo NPCs",
-    "Imperio del Sol/Historia.md",
-    "Imperio del Sol/Estudios/Overview.md",
-    "Mesas/T57 - EL Estudio del Hueso.md",
-    "Imperio del Sol/Wilaqs/Habilidades.md",
-    "Mesas/T54 - La casa que Odia.md",
-    "Mesas/T56 - El estudio del Sol.md",
-    "wm extras/Mapa.md",
-    "Items/Corona de Malictor.md",
-    "wm extras/Timeline.md",
-    "wm extras/Historia del Westmarch.md",
-    "InitilPueblo2.png",
+    "Starfinder 🚀/Gorongo NPCs/Herbert George.md",
     "Starfinder 🚀/Gorongo NPCs/Clarke.md",
-    "Starfinder 🚀/Images/Pasted image 20230507170713.png",
-    "Starfinder/Plot-pop-os.md",
-    "Imperio del Sol/Estudios/De las Estrellas.md",
+    "Starfinder 🚀/Riven Shroud.md",
+    "Starfinder 🚀/Plot.md",
+    "Starfinder 🚀/JAL 18000.md",
+    "Starfinder 🚀/Nave abandonada.md",
+    "Starfinder 🚀/Items Interesantes.md",
+    "Starfinder 🚀/Images",
+    "Starfinder 🚀/Gorongo NPCs",
+    "Starfinder 🚀/Enfermedad.md",
+    "Starfinder 🚀",
     "Otras campañas/Ideas de campaña.md",
     "Otras campañas",
-    "wm extras",
-    "Starfinder 🚀/Images/Pasted image 20230310001756.png",
-    "Images/mapaConElementosPostAla.png",
-    "Images/mapaConElementos.png",
-    "Starfinder 🚀/Images"
+    "Mesas/T57 - EL Estudio del Hueso.md",
+    "Mesas/T56 - El estudio del Sol.md",
+    "Mesas/T54 - La casa que Odia.md",
+    "Mesas/T52 - Restos de una guerra antigua.md",
+    "Mesas/T50 - Lo que el abismo se llevó.md",
+    "Mesas/T49 - Rescatando al soldado Ñokis.md",
+    "Mesas/T48 - Rip and tear.md",
+    "Mesas/T48 - Dejen de romperme la casa.md",
+    "Mesas/T47 - Aliados de Metal.md",
+    "Mesas/T46 - Familia perdida.md",
+    "Mesas",
+    "Li Hei",
+    "Items",
+    "Imperio del Sol/Wilaqs",
+    "Imperio del Sol/Estudios"
   ]
 }
