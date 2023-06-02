@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0b17b61016dcb841",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.5"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -147,7 +158,7 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "16a86826f0470628",
+  "active": "0b17b61016dcb841",
   "lastOpenFiles": [
     "Imperio del Sol/Wilaqs/Quetzaly.md",
     "Starfinder 🚀/JAL 18000.md",
