@@ -13,7 +13,7 @@ Mientras mas gemas tenga incrustadas la corona, mas cargas y mas hechizos se pue
 
 Por cada gema, el artefacto gana 2 cargas máximas. Recupera todas sus cargas at dawn.
 | N° de gemas | Cargas | Hechizos | Properties (cumulativas) | Daño attunement |
-|-|-|-|-| -|
+|-|-|-|-| -| -|
 | 0 | 0 | - | 1 minor beneficial, 1 major detrimental | 15|
 | 1 | 2 | Grave-Touched Weapon, Pilfer Sleep | 1 minor detrimental | 20|
 | 2 | 4 | Ghostly Howl | | 30 |
