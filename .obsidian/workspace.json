@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Imperio del Sol/Historia.md",
+                "file": "Starfinder 🚀/Plot.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "0b17b61016dcb841",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.3.5"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Imperio del Sol/Historia.md",
+                "file": "Starfinder 🚀/Plot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Imperio del Sol/Historia.md",
+                "file": "Starfinder 🚀/Plot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Imperio del Sol/Historia.md"
+                "file": "Starfinder 🚀/Plot.md"
               }
             }
           }
@@ -158,8 +147,10 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "0b17b61016dcb841",
+  "active": "16a86826f0470628",
   "lastOpenFiles": [
+    "Starfinder 🚀/Nave abandonada.md",
+    "Imperio del Sol/Historia.md",
     "Imperio del Sol/Wilaqs/Quetzaly.md",
     "Starfinder 🚀/JAL 18000.md",
     "Starfinder 🚀/Items Interesantes.md",
@@ -185,7 +176,6 @@
     "Starfinder 🚀/Gorongo NPCs/Clarke.md",
     "Starfinder 🚀/Riven Shroud.md",
     "Starfinder 🚀/Plot.md",
-    "Starfinder 🚀/Nave abandonada.md",
     "Starfinder 🚀/Images",
     "Starfinder 🚀/Gorongo NPCs",
     "Starfinder 🚀/Enfermedad.md",
@@ -200,7 +190,6 @@
     "Mesas/T49 - Rescatando al soldado Ñokis.md",
     "Mesas/T48 - Rip and tear.md",
     "Mesas/T48 - Dejen de romperme la casa.md",
-    "Mesas/T47 - Aliados de Metal.md",
     "Mesas",
     "Li Hei",
     "Items",
