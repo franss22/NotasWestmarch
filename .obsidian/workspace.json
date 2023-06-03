@@ -11,9 +11,9 @@
             "id": "16a86826f0470628",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Starfinder 🚀/Plot.md",
+                "file": "Imperio del Sol/Historia.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Starfinder 🚀/Plot.md",
+                "file": "Imperio del Sol/Historia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Starfinder 🚀/Plot.md",
+                "file": "Imperio del Sol/Historia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Starfinder 🚀/Plot.md"
+                "file": "Imperio del Sol/Historia.md"
               }
             }
           }
@@ -146,8 +146,9 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "c952bbdb1dac6152",
+  "active": "16a86826f0470628",
   "lastOpenFiles": [
+    "Images/InitilPueblo2.png",
     "Images/4.jpg",
     "Images/2.jpg",
     "Images/1.jpg",
@@ -168,7 +169,6 @@
     "wm extras",
     "Starfinder 🚀/Images/Ray.jpg",
     "Starfinder 🚀/Images/Pasted image 20230507170713.png",
-    "Starfinder 🚀/Images/Pasted image 20230312123035.png",
     "Starfinder 🚀/Gorongo NPCs/Ray.md",
     "Starfinder 🚀/Gorongo NPCs/Julianne.md",
     "Starfinder 🚀/Gorongo NPCs/Hugo.md",
@@ -176,6 +176,7 @@
     "Starfinder 🚀/Gorongo NPCs/Clarke.md",
     "Starfinder 🚀/Riven Shroud.md",
     "Starfinder 🚀/Plot.md",
+    "Starfinder 🚀/Nave abandonada.md",
     "Starfinder 🚀/Images",
     "Starfinder 🚀/Gorongo NPCs",
     "Starfinder 🚀/Enfermedad.md",
