@@ -13,7 +13,9 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Images/InitilPueblo2.png"
+                "file": "Starfinder 🚀/Plot.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/InitilPueblo2.png",
+                "file": "Starfinder 🚀/Plot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Images/InitilPueblo2.png",
+                "file": "Starfinder 🚀/Plot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Images/InitilPueblo2.png"
+                "file": "Starfinder 🚀/Plot.md"
               }
             }
           }
@@ -174,7 +176,6 @@
     "Starfinder 🚀/Gorongo NPCs/Clarke.md",
     "Starfinder 🚀/Riven Shroud.md",
     "Starfinder 🚀/Plot.md",
-    "Starfinder 🚀/Nave abandonada.md",
     "Starfinder 🚀/Images",
     "Starfinder 🚀/Gorongo NPCs",
     "Starfinder 🚀/Enfermedad.md",
