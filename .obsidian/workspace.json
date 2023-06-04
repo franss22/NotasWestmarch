@@ -141,7 +141,6 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false
@@ -149,7 +148,9 @@
   },
   "active": "16a86826f0470628",
   "lastOpenFiles": [
-    "2023-06-02.md",
+    "conflict-files-obsidian-git.md",
+    "Starfinder 🚀/Plot.md",
+    "Starfinder 🚀/Nave abandonada.md",
     "Imperio del Sol/Historia.md",
     "Imperio del Sol/Wilaqs/Quetzaly.md",
     "Starfinder 🚀/JAL 18000.md",
@@ -175,7 +176,6 @@
     "Starfinder 🚀/Gorongo NPCs/Herbert George.md",
     "Starfinder 🚀/Gorongo NPCs/Clarke.md",
     "Starfinder 🚀/Riven Shroud.md",
-    "Starfinder 🚀/Plot.md",
     "Starfinder 🚀/Images",
     "Starfinder 🚀/Gorongo NPCs",
     "Starfinder 🚀/Enfermedad.md",
