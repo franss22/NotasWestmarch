@@ -18,7 +18,7 @@
 |[[Del Latón]]        | Ojo | si |
 |[[Del Roble]]        | Ojo | si |
 |[[De la Sangre]]     | Ojo | si |
-|[[Del Hueso]]        | Ojo | no |
+|[[Del Hueso]]        | Ojo | si |
 |[[Del Cuarzo]]      | Ojo | no |
 |[[Del Telar]]        | Espinas | si |
 |[[De la Arena]]      | Ojo | no |
@@ -26,4 +26,5 @@
 |[[De la Puerta]]     | Ojo | no |
 |[[De la Onda]]       | Ojo | no |
 |[[De las Estrellas]] | Ojo | si |
-|[[Del Sol]]          | Ojo | no |
+|[[Del Sol]]          | Ojo | si |
+

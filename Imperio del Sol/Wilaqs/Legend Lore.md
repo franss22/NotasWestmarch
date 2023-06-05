@@ -6,8 +6,6 @@
 Arallanqu era la Wilaq del estudio del roble, y la mas joven de todos los wilaqs. Mas impulsiva que el resto, era capaz de comunicarse con los bosques, planicies y pantanos, y que le hicieran caso. Luego de ser nombrada wilaq por los emperadores gemelos, dedicó su Estudio a preservar el balance natural de la peninsula, asegurandose de que las ciudades del imperio pudieran convivir con el paisaje de su territorio. En sus aulas se estudiaban maneras de preservar bosques al miso tiempo que se extrae madera de ellos, como cuidar y catalogar semillas para ayudar al bosque a recuperar su biodeiversidad luego de un incendio, como aprovechar la cadena alimenticia para evitar el desgaste de la tierra y la repartición de plagas. Su amor por la naturaleza y su impetuosidad muchas veces la puso en conflicto con el resto de wilaqs, pero siempre encontraban una manera de hacer coexistir el enorme avance tecnológico del imperio con la naturaleza salvaje de la peninsula. Durante el reinado de Malictor, se encargó de {REDACTED}, y fué la culpable de {REDACTED (La destrucción de gran parte de las ciudades del imperio)}. {REDACTED} completamente sellado. {REDACTED}
 (human)
 
-
-
 ## Letrimot
 Letrimot, el Wilaq de la Sangre, era un gran cirujano y experto médico antes de asumir su puesto en el Imperio del Zenith. Un humano de pocas emociones y aún menos amigos, concentró su Estudio en el avance de la medicina, estudiando cadaveres de gente y monstruos por igual. Aunque muchos inicialmente alegaron contra sus métodos y materiales, los resultados que obtuvo, y las miles de vidas salvadas gracias a ello, pronto volvieron las protestas en una minoría.Sin embargo, sus enormes contribuciones a la salud pública del imperio fueron simplemente un efecto secundario de su investigación, puesto que su principal objetivo era {REDACTED}. Durante el reino de Malictor, sus métodos se {REDACTED} hasta que {REDACTED (Yanaqoyllur)} intervino, terminando con la vida de {REDACTED}.  Solo la caída de la {REDACTED} mantuvo a Letrimot {REDACTED}, y los cambios {REDACTED} hasta que los wilaqs entendieron {REDACTED}.
 A pesar de esto, Letrimot nunca {REDACTED}.
@@ -24,6 +22,7 @@ Kofotlic era la Wilaq del hueso, y la con mas edad de todos los wilaqs. Una sarr
 
 ## Quetzaly
 (Human)
+Qyetzaly, la wilaq del telar, fué la más poderosa hechicera del Imperio del Sol. {REDACTED}
 
 
 ## Hecaton Gotlac Waken
@@ -53,7 +52,7 @@ Mach'Acuay era un plasmoide del Imperio del Sol, nacido de un pequeño pueblo pl
 Poco después del fin del imperio del Eclipse, Mach'Acuay desapareció del imperio, comunicándose raramente con el resto de Wilaqs e involucrándose poco durante el Imperio del Ocaso.
 
 ## Kaltizoq
-(Hombre lagarto)
+(Lizardfolk)
 
 ## Wamantupaq
 (Aasimar)

@@ -12,14 +12,15 @@ Habilidades:
 Mientras mas gemas tenga incrustadas la corona, mas cargas y mas hechizos se pueden castear. El DC de los hechizos es 20 y el to hit es 10. Puedes usar el DC y to hit de hechizos de tu propia clase en vez de estos. Castear un hechizo cuesta cargas igual a su nivel. Al castear hechizos de lvl 8 o 9 con la corona, debes hacer una salvación de Constitución DC 24 o ganar 2 niveles de exhaustion
 
 Por cada gema, el artefacto gana 2 cargas máximas. Recupera todas sus cargas at dawn.
+
 | N° de gemas | Cargas | Hechizos | Properties (cumulativas) | Daño attunement |
-|-|-|-|-| -|
+|-|-|-|-|-|
 | 0 | 0 | - | 1 minor beneficial, 1 major detrimental | 15|
 | 1 | 2 | Grave-Touched Weapon, Pilfer Sleep | 1 minor detrimental | 20|
 | 2 | 4 | Ghostly Howl | | 30 |
 | 3 | 6 | Infuse Weapon | Visual Feature | 35 |
 | 4 | 8 | Shadowbind | 1  minor detrimental | 45 |
-| 5 | 10 | Bloody Tentacles | 1 major beneficial | 50 |
+| 5 | 10 | Divine Sovereignty | 1 major beneficial | 50 |
 | 6 | 12 | Death Gaze | Visual Feature | 55 |
 | 7 | 14 | Cone of Decay | 1  minor detrimental | 65 |
 | 8 | 16 | Soul Strike | | 70 |
@@ -38,7 +39,7 @@ Al estar completo, el artefacto tiene, en total:
 	* While attuned to the artifact, you can't smell.
 	* While attuned to the artifact, nonmagical flames are extinguished within 30 feet of you.
 * 2 major beneficial property
-	* While attuned to the artifact, one of your ability scores (DM's choice) increases by 2, to a maximum of 24. (CON)
+	* While attuned to the artifact, your Constitution ability score increases by 2, to a maximum of 24.
 	* While attuned to the artifact, your walking speed increases by 10 feet.
 * 2 major detrimentral properties
 	* When you first attune to the artifact, it gives you a quest determined by the DM. You must complete this quest as if affected by the [geas](https://5e.tools/spells.html#geas_phb) spell. Once you complete the quest, you are no longer affected by this property. ("Completa la corona por todos los medios necesarios")
@@ -51,8 +52,9 @@ Visual Features
 
 Cuando la corona tiene las 10 gemas, obtiene las siguientes habilidades:
 * +1 al AC y a los saves
+* +1 al ataque y al DC de tus habilidades/hechizos
 * Inmunidad a blinded
-* Truesight a 60ft
+* Truesight a 20ft
 * Mientras estés attuneado, tu alignment se vuelve True Neutral
 * Puedes castear los siguientes hechizos como ritual, at will:
 	* Planeshift
