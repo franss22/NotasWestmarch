@@ -10,7 +10,7 @@ El mínimo según la party de días que tienen antes de que llegue Nylessa es 9 
 - Llegaron a Gorongo
 - Conocieron a  Hugo y Mary, vendedores de Gyosas
 - Fueron a hablar con Julianne, que les dió un par de quests, especifcametne la de ir a reparar la fabrica de UPBs
-- Fueron a visitar a Grasliex y conocieron a Herbert
+- Fueron a visitar a Grasilex y conocieron a Herbert
 - Pasó un dia
 Llevan 1 dia.
 
