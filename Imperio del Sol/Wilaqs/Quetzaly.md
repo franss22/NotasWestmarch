@@ -40,3 +40,58 @@ Dolores era la ejecucionadora y torturadora de Quetzaly. Aunque originalmente
 ## Ernestina
 ![[Pasted image 20230604005532.png|300]]
 Ernestina era una criatura creada con la magia oscura descubeirta por Quetzaly durante la noche eterna.
+### Ernestina ha pasado 4 veces por NA disfrazada de Sujeto, dando loterías y recolectando cosas de quienes participan
+- **Primera Vez: Una gota de sangre**
+	- Mae
+	- Yuka
+	- Terra
+	- Samiel
+	- Lui
+	- Gondir
+	- Valka
+	- Gunk
+	- Tonny Larusso
+- Gente que dió el nombre
+	- Weld
+	- Pulpush
+	- Hope
+	- Kofis
+	- Terra
+	- Samyel
+	- Azazel
+	- Sir Bobold
+	- Gondir
+	- Ninfia
+	- Kaspitel
+	- Fanthir
+	- Leafy
+	- Samsir
+	- Kaede
+	- Tonny Larusso
+	- Natsuo
+	- Nokker
+	- Los von Vaccinium
+	- Magito
+	- Mae
+	- Cristalia
+	- Yume
+	- Gretel
+	- Wex
+	- Kaze
+	- Myst
+	- Vox
+	- Alyssa
+	- Cristalia
+	- Solomon
+- Gente que comió el dulce
+	- Azaghal
+	- IG
+	- Bonchan
+	- Sir Bobold
+	- Thurkear
+	- Aleifr
+	- Leafy
+	- Nel
+	- Idra
+	- Los von Vaccinium
+	- Takeo
