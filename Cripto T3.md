@@ -59,7 +59,7 @@ Podemos construir un adversario $A$ contra $\mathcal{SE}$ tal que
 $A$
 	$k \overset{{\scriptscriptstyle\$}}{\leftarrow} \mathcal{K}$
 	Correr el adversario $\overline{A}$ contestando sus preguntas tal que:
-		Cuando $\overline{A}$ hace la pregunta ($m_0, m_1$), calcular:
+		Cuando $\overline{A}$ hace la pregunta LR($m_0, m_1$), calcular:
 		$c = LR_{\mathcal{SE}}(m_0, m_1)$
 		$t \overset{{\scriptscriptstyle\$}}{\leftarrow} \mathcal{T}_k(c)$
 		entregamos $(c, t)$ a $\overline{A}$
@@ -79,11 +79,38 @@ Ahora queremos demostrar que $\mathcal{MA} \textrm{ es SUF-CMA} \implies \overli
 Lo haremos por contradicción:
 Sea $\overline{B}$ un adversario contra $\overline{\mathcal{SE}}$ en el sentido $\textrm{INT-CTXT}$ con ventaja significativa.
 
-Podemos construir un adversario $B$ contra $\mathcal{SE}$ en el sentido $\textrm{SUF-CMA}$ tal que:
+Podemos construir un adversario $B$ contra $\mathcal{MA}$ en el sentido $\textrm{SUF-CMA}$ tal que:
 $B$
 	$k \overset{{\scriptscriptstyle\$}}{\leftarrow} \mathcal{K}$
 	Correr el adversario $\overline{B}$ contestando sus preguntas tal que:
 		Cuando $\overline{B}$ hace la pregunta Enc($M$), calcular:
 		$c = \mathcal{E}_k(M)$
 		$t =$ Tag($c$)
-	
+		entregamos $(c, t)$ a $\overline{B}$
+		hasta que $\overline{B}$ se detiene y entrega $(c', t')$
+	return $(c', t')$
+
+Si $\overline{B}$ gana, significa que entregó un par $(c', t')$ tal que $c'$ no se repite, y dado $\overline{\mathcal{D}}_K$, $\overline{\mathcal{D}}_K(c', t')$ entrega un $M$ (es decir que el tag estaba bien puesto.)
+Luego, 
+$$
+\begin{split}
+
+Adv(B) &= Pr[SUFCMA^A_{\mathcal{MA}}\implies true]\\
+&= Pr[INTCTXT^\overline{B}_{\mathcal{\overline{SE}}}\implies true] = Adv(\overline{B})
+\end{split}
+$$
+es decir $Adv(B) = Adv(\overline{B})$, luego si $\overline{B}$ tiene ventaja significativa ($\overline{\mathcal{SE}}$ no es INT-CTXT) implica $\mathcal{MA}$  no es SUF-CMA. Demostramos la conrtareciproca y por lo tanto tenemos que:
+
+$$
+\begin{split}
+(\mathcal{SE} \textrm{ es IND-CPA} \implies \overline{\mathcal{SE}} \textrm{ es IND-CPA}
+&\land 
+\mathcal{MA} \textrm{ es SUF-CMA} \implies \overline{\mathcal{SE}} \textrm{ es INT-CTXT})\\
+&\implies\\
+
+\mathcal{SE} \textrm{ es IND-CPA} \land \mathcal{MA} \textrm{ es SUF-CMA} &\implies \overline{\mathcal{SE}} \textrm{ es IND-CPA} \land\overline{\mathcal{SE}} \textrm{ es INT-CTXT}
+
+\end{split}
+$$
+
+# P3
