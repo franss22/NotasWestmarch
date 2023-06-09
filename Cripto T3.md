@@ -99,7 +99,7 @@ Adv(B) &= Pr[SUFCMA^A_{\mathcal{MA}}\implies true]\\
 &= Pr[INTCTXT^\overline{B}_{\mathcal{\overline{SE}}}\implies true] = Adv(\overline{B})
 \end{split}
 $$
-es decir $Adv(B) = Adv(\overline{B})$, luego si $\overline{B}$ tiene ventaja significativa ($\overline{\mathcal{SE}}$ no es INT-CTXT) implica $\mathcal{MA}$  no es SUF-CMA. Demostramos la conrtareciproca y por lo tanto tenemos que:
+es decir $Adv(B) = Adv(\overline{B})$, luego si $\overline{B}$ tiene ventaja significativa ($\overline{\mathcal{SE}}$ no es INT-CTXT) implica $\mathcal{MA}$  no es SUF-CMA. Demostramos la contrareciproca y por lo tanto tenemos que:
 
 $$
 \begin{split}
@@ -114,4 +114,26 @@ $$
 $$
 
 # P3
-Una versión mas eficiente se puede lograr usando exponenciación modular rápida
+Una versión mas eficiente se puede lograr de la siguiente forma. (Asumimos que la exponenciación toma $2k$ multiplicaciones modulo N)
+
+Imponemos  $x \le y$. En caso de que no sea verdad, damos vuelta las variables para que se cumpla.
+Luego hacemos $z = y-x$.
+Finalmente calculamos la salida de la siguiente manera:
+(m denota la cantidad de multiplicaciones, parte en 0)
+
+$c = ab$ //$m=1$
+$C = c^x$//$m=1+log_2(x)$
+$B=b^z$//$m=1+log_2(x)+log_2(z)$
+$S= CB$//$m=2+log_2(x)+log_2(z)$
+$$
+\begin{split}
+m &= 2+log_2(x)+log_2(z) \\
+&= 2 +log_2(xz)\\
+&= 2 +log_2(x(y-x))\\
+&= 2 +log_2(xy-x^2)\\
+\end{split}
+$$
+Claramente $xy-x^2$ es máxima cuando $y=N-1$
+Luego buscamos el máximo de $(N-1)x-x^2$
+
+
