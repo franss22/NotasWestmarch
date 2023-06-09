@@ -114,3 +114,4 @@ $$
 $$
 
 # P3
+Una versión mas eficiente se puede lograr usando exponenciación modular rápida
