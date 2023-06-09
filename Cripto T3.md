@@ -81,4 +81,9 @@ Sea $\overline{B}$ un adversario contra $\overline{\mathcal{SE}}$ en el sentido 
 
 Podemos construir un adversario $B$ contra $\mathcal{SE}$ en el sentido $\textrm{SUF-CMA}$ tal que:
 $B$
+	$k \overset{{\scriptscriptstyle\$}}{\leftarrow} \mathcal{K}$
+	Correr el adversario $\overline{B}$ contestando sus preguntas tal que:
+		Cuando $\overline{B}$ hace la pregunta Enc($M$), calcular:
+		$c = \mathcal{E}_k(M)$
+		$t =$ Tag($c$)
 	
