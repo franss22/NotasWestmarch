@@ -22,7 +22,7 @@ Kofotlic era la Wilaq del hueso, y la con mas edad de todos los wilaqs. Una sarr
 
 ## Quetzaly
 (Human)
-Qyetzaly, la wilaq del telar, fué la más poderosa hechicera del Imperio del Sol. {REDACTED}
+Quetzaly, la wilaq del telar, fué la más poderosa hechicera del Imperio del Sol. {REDACTED}
 
 
 ## Hecaton Gotlac Waken
