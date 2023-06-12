@@ -115,6 +115,32 @@ $$
 
 # P3
 
-Hacemos lo siguiente:
+Se propone el siguiente algoritmo:
+```python
+def special_exp(a, x, b, y):
+    if x<y:
+        # forzamos x>y
+        a, x, b, y = b, y, a, x
+    x_b = bin(x)
+    y_b = bin(y)
+    y_b = [0]*(len(x_b) - len(y_b)) + y_b
+    t = 1
+    ab = X(a, b)
+    a_b = {
+        (0, 0): 1,
+        (1, 0): a,
+        (0, 1): b,
+        (1, 1): ab
+    }
+    for i in range(len(x_b)):
+        x_i = x_b[i]
+        y_i = y_b[i]
+        
+        t_2 = X(t, t)
+        t = X(t_2, a_b[(x_i, y_i)])
+
+    return t
+```
 
 
+La idea es similar al exponente modular
