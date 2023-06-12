@@ -99,7 +99,7 @@ Adv(B) &= Pr[SUFCMA^A_{\mathcal{MA}}\implies true]\\
 &= Pr[INTCTXT^\overline{B}_{\mathcal{\overline{SE}}}\implies true] = Adv(\overline{B})
 \end{split}
 $$
-es decir $Adv(B) = Adv(\overline{B})$, luego si $\overline{B}$ tiene ventaja significativa ($\overline{\mathcal{SE}}$ no es INT-CTXT) implica $\mathcal{MA}$  no es SUF-CMA. Demostramos la contrareciproca y por lo tanto tenemos que:
+es decir $Adv(B) = Adv(\overline{B})$, luego si $\overline{B}$ tiene ventaja significativa ($\overline{\mathcal{SE}}$ no es INT-CTXT) implica $\mathcal{MA}$  no es SUF-CMA. Demostramos la contra-reciproca y por lo tanto tenemos que:
 
 $$
 \begin{split}
