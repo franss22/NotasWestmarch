@@ -99,7 +99,7 @@ Adv(B) &= Pr[SUFCMA^A_{\mathcal{MA}}\implies true]\\
 &= Pr[INTCTXT^\overline{B}_{\mathcal{\overline{SE}}}\implies true] = Adv(\overline{B})
 \end{split}
 $$
-es decir $Adv(B) = Adv(\overline{B})$, luego si $\overline{B}$ tiene ventaja significativa ($\overline{\mathcal{SE}}$ no es INT-CTXT) implica $\mathcal{MA}$  no es SUF-CMA. Demostramos la contrareciproca y por lo tanto tenemos que:
+es decir $Adv(B) = Adv(\overline{B})$, luego si $\overline{B}$ tiene ventaja significativa ($\overline{\mathcal{SE}}$ no es INT-CTXT) implica $\mathcal{MA}$  no es SUF-CMA. Demostramos la contra-reciproca y por lo tanto tenemos que:
 
 $$
 \begin{split}
@@ -134,6 +134,20 @@ m &= 2+log_2(x)+log_2(z) \\
 \end{split}
 $$
 Claramente $xy-x^2$ es máxima cuando $y=N-1$
-Luego buscamos el máximo de $(N-1)x-x^2$
-
+Luego buscamos el máximo de $f(x)=(N-1)x-x^2$. Derivamos con respecto a $x$ y nos da $f'(x)=N-1-2x$, y la segunda derivada $f''(x)=-2$. Al igualar a 0 nos da que el máximo está en $x = \frac{N-1}{2}$.
+Luego en el peor caso (es decir cuando m es máximo)
+$$\begin{split}
+m_{max} &= 2 +log_2(xy-x^2)\\
+ &= 2 + log_2(\frac{N-1}{2}\times (N-1)-(\frac{N-1}{2})^2)\\
+ &= 2 + log_2(\frac{(N-1)^2}{2}-\frac{(N-1)^2}{4})\\
+ &= 2 + log_2(\frac{2(N-1)^2-(N-1)^2}{4})\\
+ &= 2 + log_2(\frac{(N-1)^2}{4})\\
+ &= 2 + log_2((N-1)^2)-log_2(4)\\
+ &= 2 + 2log_2(N-1)-log_2(4)\\
+ &= 2 + 2log_2(N-1)-2\\
+ &= 2log_2(N-1) \le 2k\\
+ 
+ 
+ 
+\end{split}$$
 
