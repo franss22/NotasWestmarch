@@ -114,40 +114,33 @@ $$
 $$
 
 # P3
-Una versión mas eficiente se puede lograr de la siguiente forma. (Asumimos que la exponenciación toma $2k$ multiplicaciones modulo N)
 
-Imponemos  $x \le y$. En caso de que no sea verdad, damos vuelta las variables para que se cumpla.
-Luego hacemos $z = y-x$.
-Finalmente calculamos la salida de la siguiente manera:
-(m denota la cantidad de multiplicaciones, parte en 0)
+Se propone el siguiente algoritmo:
+```python
+def special_exp(a, x, b, y):
+    if x<y:
+        # forzamos x>y
+        a, x, b, y = b, y, a, x
+    x_b = bin(x)
+    y_b = bin(y)
+    y_b = [0]*(len(x_b) - len(y_b)) + y_b
+    t = 1
+    ab = X(a, b)
+    a_b = {
+        (0, 0): 1,
+        (1, 0): a,
+        (0, 1): b,
+        (1, 1): ab
+    }
+    for i in range(len(x_b)):
+        x_i = x_b[i]
+        y_i = y_b[i]
+        
+        t_2 = X(t, t)
+        t = X(t_2, a_b[(x_i, y_i)])
 
-$c = ab$ //$m=1$
-$C = c^x$//$m=1+log_2(x)$
-$B=b^z$//$m=1+log_2(x)+log_2(z)$
-$S= CB$//$m=2+log_2(x)+log_2(z)$
-$$
-\begin{split}
-m &= 2+log_2(x)+log_2(z) \\
-&= 2 +log_2(xz)\\
-&= 2 +log_2(x(y-x))\\
-&= 2 +log_2(xy-x^2)\\
-\end{split}
-$$
-Claramente $xy-x^2$ es máxima cuando $y=N-1$
-Luego buscamos el máximo de $f(x)=(N-1)x-x^2$. Derivamos con respecto a $x$ y nos da $f'(x)=N-1-2x$, y la segunda derivada $f''(x)=-2$. Al igualar a 0 nos da que el máximo está en $x = \frac{N-1}{2}$.
-Luego en el peor caso (es decir cuando m es máximo)
-$$\begin{split}
-m_{max} &= 2 +log_2(xy-x^2)\\
- &= 2 + log_2(\frac{N-1}{2}\times (N-1)-(\frac{N-1}{2})^2)\\
- &= 2 + log_2(\frac{(N-1)^2}{2}-\frac{(N-1)^2}{4})\\
- &= 2 + log_2(\frac{2(N-1)^2-(N-1)^2}{4})\\
- &= 2 + log_2(\frac{(N-1)^2}{4})\\
- &= 2 + log_2((N-1)^2)-log_2(4)\\
- &= 2 + 2log_2(N-1)-log_2(4)\\
- &= 2 + 2log_2(N-1)-2\\
- &= 2log_2(N-1) \le 2k\\
- 
- 
- 
-\end{split}$$
+    return t
+```
 
+
+La idea es similar al exponente modular
