@@ -142,5 +142,5 @@ def special_exp(a, x, b, y):
     return t
 ```
 
-
-La idea es similar al exponente modular
+(X(a, b) es la multiplicación módulo N.)
+La idea es similar al exponente modular. Cada paso hacemos $t = t^2\times a^{x_i}\times b^{y_i}$. Sin embargo, es innecesario hacer $a^{x_i}\times b^{y_i}$ en cada paso, pues tiene solo 4 posibilidades ($(x_i, y_i) \in {0, 1}^2$). Por lo que podemos precalcular todas las opciones al comienzo y usar eso en cada paso.
