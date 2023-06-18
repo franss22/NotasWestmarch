@@ -95,3 +95,6 @@ Ernestina era una criatura creada con la magia oscura descubeirta por Quetzaly d
 	- Idra
 	- Los von Vaccinium
 	- Takeo
+- Gente que dió un pelo (excepto Nel):
+![[Pasted image 20230617221356.png]]
+![[Pasted image 20230617221412.png]]
