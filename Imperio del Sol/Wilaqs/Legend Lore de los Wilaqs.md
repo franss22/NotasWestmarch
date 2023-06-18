@@ -31,6 +31,7 @@ Quetzaly, la wilaq del telar, fue la más poderosa hechicera del Imperio del Sol
 ## Hecaton Gotlac Waken
 (Vedalken, F)
 Hecatón va a ser un wilaq que estudió el funcionamiento y flujo del tiempo. Está investigando formas de evitar el último despertar de {REDACTED} que ocurrió dentro de poco. Si Hecaton descubriera como viajar por el tiempo, se fragmentará y su linea del tiempo personal se volvió extraña y enmarañada. Por lo tanto, Hecaton no poder interactuar fácilmente con el mundo que lo rodeaba, pues cada pequeño cambio que hiciese tuvo extrañas consecuencias tanto en el pasado como en el futuro. El estudio de la Arena, el cual será el que le pertenezca, está perdiéndose en el tiempo, su localización original será ocupada por extrañas paradojas.
+(Su padre es Achikilla Huamancuri Waken)
 
 ## Hanp’Atu
 (Goliath, M)
