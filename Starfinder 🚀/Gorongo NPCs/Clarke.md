@@ -1,4 +1,8 @@
-![[Clarke.jpg]]
+---
+banner: "Starfinder 🚀/Images/Clarke.jpg"
+banner_y: 0.3135
+---
+
 
 Clarke (Elfa, LN, Nanocyte 10) es una investigadora que vino a Gorongo hace unos 50 años a investigar la civilización que creó la esfera de de Dyson. 
 
