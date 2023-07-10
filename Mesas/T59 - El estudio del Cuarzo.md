@@ -6,7 +6,7 @@ loot:
 5. Rod of Security
 6. Crystal Reservoir 
 7. Crystal Reservoir (lvl 1-3 tattoo, when aplying it to your body you decide any spell, uses 8+profx2 for dc, profx2 for Attack bonus)
-8. Crystalized Convenientium x4
+8. Crystalized Convenientium x1
 9. Spell gem lvl 2, 3
 10. 6 pots of supreme healing
 
