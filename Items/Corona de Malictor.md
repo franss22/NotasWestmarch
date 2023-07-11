@@ -21,7 +21,7 @@ Por cada gema, el artefacto gana 2 cargas máximas. Recupera todas sus cargas at
 | 3 | 6 | Infuse Weapon | Visual Feature | 35 |
 | 4 | 8 | Shadowbind | 1  minor detrimental | 45 |
 | 5 | 10 | Divine Sovereignty | 1 major beneficial | 50 |
-| 6 | 12 | Death Gaze | Visual Feature | 55 |
+| 6 | 12 | Healing Draught | Visual Feature | 55 |
 | 7 | 14 | Cone of Decay | 1  minor detrimental | 65 |
 | 8 | 16 | Soul Strike | | 70 |
 | 9 | 18 | Annihilate Soul | 1 major beneficial, Visual Feature | 80 |
