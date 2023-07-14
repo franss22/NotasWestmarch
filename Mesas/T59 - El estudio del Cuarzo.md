@@ -3,7 +3,7 @@ loot:
 2. Elemental gem, 4 de cada (tierra, aire gone)
 3. Gem of seeing
 4. Stonespeaker Crystal
-5. 6 pots of supreme healing
+5. 5 pots of supreme healing
 
 - 581,339 gp in coinage:
 	- 35,000 pp
