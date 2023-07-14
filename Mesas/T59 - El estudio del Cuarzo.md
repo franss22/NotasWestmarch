@@ -1,7 +1,5 @@
 loot:
-1.  Rod of absorption
 2. Elemental gem, 4 de cada (tierra, aire gone)
-3. Gem of seeing
 4. Stonespeaker Crystal
 5. 5 pots of supreme healing
 
