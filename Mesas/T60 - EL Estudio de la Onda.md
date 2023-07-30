@@ -2,4 +2,5 @@ Inalii invita a aventureros de NA a participar en un show. Deben pasar 3 pruebas
 
 ### Primera Prueba
 Inalii hace aparecer una partitura en el aire, y 12 bichos. Cada bicho representa una nota distinta de la escala cromática. La party debe golpear a los enemigos en el orden de la partitura, o recibir el daño/efectos de vuelta.
+![[Pasted image 20230730135224.png]]
 ### Segunda Prueba
