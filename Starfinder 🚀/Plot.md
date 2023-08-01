@@ -58,8 +58,8 @@ Llevan 2 dia y 17 horas
 	- Llevan 3 dias y 3 horas
 - Julianne les dice "no vayan a la placa 3024 pq hay un dragón"
 - Venden y compran weás sin rolear, mientras Yalendori y Kar'li van done Herbert a merterse cromo (14 horas)
-- Van donde Ray y le explican lo de Nylessa. Ray les casi-cree, los manda donde clarke y manda a Gilgamesh (npc rana) a mandar un mensaje por ansible para confirmar.
-- Van donde Clarke, le explican la situación le muestran a JAL, Clarke les dice que:
+- Van donde Ray y le explican lo de Nylessa. Ray les casi-cree, los manda donde Clarke que cacha mas de la esfera y su objetivo original y manda a Gilgamesh (npc rana) a mandar un mensaje por ansible para confirmar.
+- Van donde Clarke, le explican la situación y le muestran a JAL, Clarke les dice que:
 	- En la placa 22 hay una instalación relacionada con JAL
 	- En la placa 3500 hay un grupo de eoxianos que están investigando los sistemas de defensa de la esfera.
 (Caminar al Sunset, hablar con ray, luego caminar donde Clarke y hablar con clarke toma ent otal 3 horas.)
