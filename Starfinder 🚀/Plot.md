@@ -66,3 +66,5 @@ Llevan 2 dia y 17 horas
 - Viajan a la placa 22 a ver si pueden upgradearle el firmware a JAL (toma un día)
 Llevan 4 dias y 20 horas.
 
+1 de Agosto:
+- En la placa 22, entran a la instalación
