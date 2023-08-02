@@ -3,10 +3,7 @@
   "livePreview": true,
   "promptDelete": false,
   "readableLineLength": true,
-  "spellcheckLanguages": [
-    "en-US",
-    "es"
-  ],
+  "spellcheckLanguages": null,
   "spellcheck": true,
   "pdfExportSettings": {
     "includeName": true,

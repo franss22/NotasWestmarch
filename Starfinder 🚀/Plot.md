@@ -68,3 +68,11 @@ Llevan 4 dias y 20 horas.
 
 1 de Agosto:
 - En la placa 22, entran a la instalación
+- Exploran un poco, gracias a technological invisibility, Yalendori revisa la zona de mantenimiento, lootea, y luego vuelve con K
+- con la ayuda de K, hackean y desactivan las torretas del shaft, consiguen el permiso para entrar al reactor, y hackean los 3 drones predadores.
+- En el puente, los robots los dejan pasar cuando llevan el permiso, y van al reactor
+- Activan el reactor. Yalendori se irradia.
+- Vuelven, luchan contra un planashar.
+- Yalendori se irradia de nuevo, se enferma.
+- K se enferma de Nullsoul.
+Llevan 4 días y 22 horas.
