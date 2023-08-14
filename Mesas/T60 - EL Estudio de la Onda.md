@@ -6,6 +6,7 @@ Inalii hace aparecer una partitura en el aire, y 12 bichos. Cada bicho represent
 ### Segunda Prueba
 La party debe luchar contra un boss poderoso, pero para poder usar sus habilidades deben citar una canción que tenga que ver con la habilidad.
 
+Si no se les ocurre una canción, pueden elegir un 
 ### Tercera y última prueba
 Concierto siguiendo las siguientes reglas: https://www.reddit.com/r/DMAcademy/comments/as50sy/making_musical_encounters_and_performances_more/
 
