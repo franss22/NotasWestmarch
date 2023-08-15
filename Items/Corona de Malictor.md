@@ -25,7 +25,7 @@ Por cada gema, el artefacto gana 2 cargas máximas. Recupera todas sus cargas at
 | 7 | 14 | Chain Enervation | 1  minor detrimental | 65 |
 | 8 | 16 | Soul Strike | | 70 |
 | 9 | 18 | Annihilate Soul | 1 major beneficial, Visual Feature | 80 |
-| 10| 20 | - | 1  minor beneficial | 85 |
+| 10| 20 | - | 1  minor beneficial, 1 minor detrimental, 1 major detrimental | 85 |
 
 
 Al estar completo, el artefacto tiene, en total:
