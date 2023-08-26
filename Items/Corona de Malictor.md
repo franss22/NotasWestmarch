@@ -24,8 +24,8 @@ Por cada gema, el artefacto gana 2 cargas máximas. Recupera todas sus cargas at
 | 6 | 12 | Healing Draught | Visual Feature | 55 |
 | 7 | 14 | Chain Enervation | 1  minor detrimental | 65 |
 | 8 | 16 | Soul Strike | | 70 |
-| 9 | 18 | Annihilate Soul | 1 major beneficial, Visual Feature | 80 |
-| 10| 20 | - | 1  minor beneficial, 1 minor detrimental, 1 major detrimental | 85 |
+| 9 | 18 | Tendrils of Night | 1 major beneficial, Visual Feature | 80 |
+| 10| 20 | Annihilate Soul | 1  minor beneficial, 1 minor detrimental, 1 major detrimental | 85 |
 
 
 Al estar completo, el artefacto tiene, en total:
@@ -47,8 +47,8 @@ Al estar completo, el artefacto tiene, en total:
 
 Visual Features
 - Puedes hacer la corona invisible/visible at will (como acción)
-- Puedes cambiar la forma de la corona (a otra corona) at will (como acción)
-- Puedes hacer que la corona esté en el etéreo at will (como acción)
+- Como acción, puedes cambiar la forma de la corona (a otra corona) at will.
+- Como acción, puedes hacer que la corona entre y salga del etéreo at will (sigue estando sobre tu cabeza cuando la traes de vuelta).
 
 Cuando la corona tiene las 10 gemas, obtiene las siguientes habilidades:
 * +1 al AC y a los saves
