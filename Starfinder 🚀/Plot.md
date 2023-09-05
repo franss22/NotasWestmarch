@@ -76,3 +76,17 @@ Llevan 4 dias y 20 horas.
 - Yalendori se irradia de nuevo, se enferma.
 - K se enferma de Nullsoul.
 Llevan 4 días y 22 horas.
+
+
+4 de Septiembre:
+- Bajaron por el SHAFT
+- Robaron dineros de un a terminal
+- LLegaron al CORE
+- Conocieron a SAM
+- SAM los intentó matar, JAL borró a SAM
+- JAL se upgradeó, cambió de arte, ahora puede activar terminales, Hackear constrcutos que boten a suelo con daño electrico, y controlar las defenass de las placas (pero tiene q estar al lado)
+- Les dice que tiene una lista de placas con defensas, pero no sabe cuales siguen funcoinando
+- Clarke les dice que tiene un base de datos con las placas y sus estados.
+- Le roban la plata a SAM
+- Vuelven a gorongo.
+Llevan 5 dias y 10 horas
