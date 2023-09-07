@@ -1,4 +1,4 @@
-La corona de Malictor guarda parte de su alma, y fué separada en 12 partes:
+La corona de Malictor fué separada en 12 partes:
 
 * 10 gemas con forma de ojo
 * Un anillo grande de metal
@@ -42,7 +42,7 @@ Al estar completo, el artefacto tiene, en total:
 	* While attuned to the artifact, your Constitution ability score increases by 2, to a maximum of 24.
 	* While attuned to the artifact, your walking speed increases by 10 feet.
 * 2 major detrimentral properties
-	* When you first attune to the artifact, it gives you a quest determined by the DM. You must complete this quest as if affected by the [geas](https://5e.tools/spells.html#geas_phb) spell. Once you complete the quest, you are no longer affected by this property. ("Completa la corona por todos los medios necesarios")
+	* (Uuuh, secreto)
 	* While you are attuned to the artifact, creatures of a particular type other than humanoid (as chosen by the DM) are always hostile toward you. (Dragon)
 
 Visual Features
