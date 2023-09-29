@@ -8,3 +8,4 @@ Gold Canary Figurine of Wondrous Power
 Bag of Devouring
 Raven's Slumber
 War Horn of Valor
+Elixir of health x2
