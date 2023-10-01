@@ -95,5 +95,5 @@ El viaje entre placas dura 1d6/5 dias.
 
 1 de Octubre
 - Vuelven a Gorongo en 1 dia
-- 
+- K-71 se mete augmentations por 26 horas
 
