@@ -91,3 +91,9 @@ Llevan 4 días y 22 horas.
 - Vuelven a gorongo.
 Llevan 5 dias y 10 horas
 
+El viaje entre placas dura 1d6/5 dias.
+
+1 de Octubre
+- Vuelven a Gorongo en 1 dia
+- 
+
