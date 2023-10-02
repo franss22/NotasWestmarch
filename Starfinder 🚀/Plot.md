@@ -98,9 +98,14 @@ El viaje entre placas dura 1d6/5 dias.
 - K-71 se mete augmentations por 26 horas (22 horas en realidad)
 - Jal se conecta a la Base de datos de Clarke, y les cuenta de 2 placas donde hay megaarmas:
 	- La placa 8, que tiene un constructo brigido protegiendola
-	- la placa 5699 (al lado del dron perdido, 2 horas de viaje), que tiene un campo de slow, y se van a demorar 1d6+1/5 en vez de 1d6 en el viaje.
+	- La placa 5699 (al lado del dron perdido, 2 horas de viaje), que tiene un campo de slow, y se van a demorar 1d6+1/5 en vez de 1d6 en el viaje.
 	- La placa 3500, donde están los eoxianos.
-- Recordatorio de los 3 beacons, que pueden destruir/desactivar para retrasar a Nylessa:
+- Recordatorio de los 3 beacons, que pueden destruir/desactivar para retrasar a Nylessa (se demora 2d4 dias extra):
 	  Uno en órbita, que deben destruir con una megaarma
 	  Uno en el lado oscuro de la esfera
 	  Otro en gorongo
+- Van al sunset, donde están los asesinos Azlanti. Los asesinos le ponen un localizador/microfono a Yalendori en la espalda (DC 45 para darse cuenta).
+- Le dicen a Ray que quieren desactivar el beacon de Gorongo, Ray es dice que weno, pero que esperen al menos 5 dias para poder tener lista una evacuación.
+- Hacen guardia junto a K-71 mientras lo operan. Pasan 22 horas.
+- Esperan la operación de Bahamel (13 hrs)
+Llevan exactamente 8 dias.
