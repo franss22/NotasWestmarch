@@ -109,3 +109,6 @@ El viaje entre placas dura 1d6/5 dias.
 - Hacen guardia junto a K-71 mientras lo operan. Pasan 22 horas.
 - Esperan la operación de Bahamel (13 hrs)
 Llevan exactamente 8 dias.
+
+
+(con el dron, )
