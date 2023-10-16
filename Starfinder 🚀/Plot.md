@@ -115,5 +115,5 @@ Llevan exactamente 8 dias.
 - Karli acelera el proceso de evacuación 15 horas
 - Viajan a la placa 5699 en 1.4 dias (llevan 9.4 dias) (faltan 26 horas para podre desactivar el beacon de Gorongo)
 - (Encuentran un staff, arreglarlo demora 38 horas)
-
+Nylessa se demora 5 dias mas
 (con el dron, encuentran las coordenadas de una placa cercana con un megaradar que les permitiría saber mejor cuanto le falta para llegar a Nylessa)
