@@ -114,6 +114,11 @@ Llevan exactamente 8 dias.
 15 de Octubre
 - Karli acelera el proceso de evacuación 15 horas
 - Viajan a la placa 5699 en 1.4 dias (llevan 9.4 dias) (faltan 26 horas para podre desactivar el beacon de Gorongo)
-- (Encuentran un staff, arreglarlo demora 38 horas)
+- En la palca, ven restos de escombros y otras cosas debido a un meteorito, los drones están ocupados arreglandolo. 
+- Caminan a la torre central, la megaarma, demoran 2 horas
+- En el camino encuentran cositas
+- (Encuentran un staff of nucelear verngeance++, arreglarlo demora 38 horas, mientras no esté arreglado tira radiación)
+- Activan el arma, nylessa se demorará 5 dias más (17 en total, minimo 11 segun party)
+- Vuelven a la nave, al llegar, hay uno de los dronesq se quiere llevar la nave par arreglar la torre.
 Nylessa se demora 5 dias mas
 (con el dron, encuentran las coordenadas de una placa cercana con un megaradar que les permitiría saber mejor cuanto le falta para llegar a Nylessa)
