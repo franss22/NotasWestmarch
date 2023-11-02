@@ -23,4 +23,5 @@ Pueden encontrar pistas que parecen corroborar todas las teorías a la vez
 - Encuentran huellas de kruthik
 - Encuentran el polvo morado de Oleroi
 - Si buscan aberraciones, aparte de salirles abajo en la grieta, les aparecen intellect devourers en los Aaracokra.
-- 
+
+Al revisar el almacén de comida, originalmente no encuentran nada, hasta que los PJs se pongan mas o menos de acuerdo sobre qué es lo que está pasando, Al ponerse de acuerdo, la presencia toma esa forma y se revela, 
