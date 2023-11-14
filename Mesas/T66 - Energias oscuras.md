@@ -35,3 +35,6 @@ El coloso tiene 10 filacterios, y cada turno, spawnean varios liches.
 En algún momento, aparece el avatar de Boreas y hace U >:D
 
 Cada turno, 
+
+Weld: 1 carga
+Leafy: 0 cargas
