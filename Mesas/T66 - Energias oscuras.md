@@ -32,6 +32,6 @@ Los colosos tienen unas tremendas cadenascolgando de las piernas, que arrastran 
 
 El coloso tiene 10 filacterios, y cada turno, spawnean varios liches.
 
-En algun momento, aparece el avatar de Boreas
+En algún momento, aparece el avatar de Boreas y hace U >:D
 
 Cada turno, 
