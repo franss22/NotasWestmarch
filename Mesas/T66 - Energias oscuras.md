@@ -36,5 +36,5 @@ En algún momento, aparece el avatar de Boreas y hace U >:D
 
 Cada turno, 
 
-Weld: 1 carga
-Leafy: 0 cargas
+Weld: 1 cargas
+Leafy: 1 cargas
