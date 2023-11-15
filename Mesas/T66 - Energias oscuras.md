@@ -26,7 +26,7 @@ Loot Very Rare
 
 Los colosos caminan lentamente, pareciendose todos dirigirse al mismo lugar. Si intentan estimarlo, llegarán en 3 días.
 
-Al ir al lugar donde se dirigen, enceutrna unas ruinas enormes, con una pirámide sellada. Uno de los colosos ya llegó.
+Al ir al lugar donde se dirigen, encuentra unas ruinas enormes, con una pirámide sellada. Uno de los colosos ya llegó.
 
 Los colosos tienen unas tremendas cadenascolgando de las piernas, que arrastran por el suelo. Si escalan las cadenas (o vuelan, aunque si vuelan el coloso los ataca), pueden encontrar un filacterio clavado en su "piel". Pueden romper los filacterios, o pueden solucionar un puzzle. Si solucionan el puzzle, ganan control del lich del filacterio.
 
