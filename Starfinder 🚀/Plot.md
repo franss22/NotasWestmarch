@@ -117,7 +117,7 @@ Llevan exactamente 8 dias.
 - En la palca, ven restos de escombros y otras cosas debido a un meteorito, los drones están ocupados arreglandolo. 
 - Caminan a la torre central, la megaarma, demoran 2 horas
 - En el camino encuentran cositas
-- (Encuentran un staff of nucelear verngeance++, arreglarlo demora 38 horas, mientras no esté arreglado tira radiación)
+- (Encuentran un staff of nuclear verngeance++, arreglarlo demora 38 horas, mientras no esté arreglado tira radiación)
 - Activan el arma, nylessa se demorará 5 dias más (17 en total, minimo 11 segun party)
 - Vuelven a la nave, al llegar, hay uno de los dronesq se quiere llevar la nave par arreglar la torre.
 Nylessa se demora 5 dias mas
