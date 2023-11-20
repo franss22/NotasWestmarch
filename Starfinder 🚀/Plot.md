@@ -127,4 +127,5 @@ Nylessa se demora 5 dias mas
 - Vaiajan de vuelta ala nave (1 hroa)
 - Pelean contra un dron que  se estaba robando la nave
 - Viajan a la placa 5698 a buscar el dron de Julijneane
+- La party hace un colonialismo
 - 
