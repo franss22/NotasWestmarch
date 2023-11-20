@@ -122,3 +122,9 @@ Llevan exactamente 8 dias.
 - Vuelven a la nave, al llegar, hay uno de los dronesq se quiere llevar la nave par arreglar la torre.
 Nylessa se demora 5 dias mas
 (con el dron, encuentran las coordenadas de una placa cercana con un megaradar que les permitiría saber mejor cuanto le falta para llegar a Nylessa)
+
+19 de Noviembre
+- Vaiajan de vuelta ala nave (1 hroa)
+- Pelean contra un dron que  se estaba robando la nave
+- Viajan a la placa 5698 a buscar el dron de Julijneane
+- 
