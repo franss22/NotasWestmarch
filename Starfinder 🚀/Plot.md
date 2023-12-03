@@ -3,7 +3,7 @@ Luego de huir de Nemenar, la party llega a Riven shroud, donde tienen 12 días p
 El mínimo según la party de días que tienen antes de que llegue Nylessa es 9 días.
 
 
-30 de Marzo:
+### 30 de Marzo:
 - Salieron del space hulk
 - Conocieron a Jal 18000, le cambiaron la voz a mujer
 - Jal les dijo que podía conectarse a las terminales de Riven Shroud
@@ -14,7 +14,7 @@ El mínimo según la party de días que tienen antes de que llegue Nylessa es 9 
 - Pasó un dia
 Llevan 1 dia.
 
-16 de Abril:
+### 16 de Abril:
 - Despertaron donde Grasilex (8 horas)
 - Decidieron ignorar la main quest e ir a rellenar secundarias
 - Partieron a la UPB Foundry (placa 218) (1 día)
@@ -22,7 +22,7 @@ Llevan 1 dia.
 - Abrieron una caja y lucharon contra un golem de nanites
 - Tomaron los UPBs de la caja, los llevaron a la nave, y volvieron a bajar (1 hora)
 
-1 de Mayo:
+### 1 de Mayo:
 - Siguen explorando la fabrica de UPBs
 - Encuentran un espejo (3), y un prisma (2)
 - Desactivaron una trampa laser, y robaron una pistola, un rifle, y unas granadas.
@@ -36,7 +36,7 @@ Llevan 1 dia.
 - volvieron a la sala de las finanzas a descansar.
 Llevan 2 dia y 13 horas
 
-7 de mayo:
+### 7 de mayo:
 - Descubren el pozo chistoso gracioso: pueden comprar items technological (max level 10) con 5% de descuento, pueden hacer gacha (cualquier item de lvl 1 a 5) por 1000UPB, pueden meter items y les escupe 
 - Pillan una piscina de UPB entangleado quanticamente, lo colapsan, y en vez de salir un enemigo sale una armadura para Yalendori
 - Encuentran un ring of resistance mk3
@@ -53,7 +53,7 @@ Llevan 2 dia y 13 horas
 - Vuelven a Gorongo 2 horas
 Llevan 2 dia y 17 horas
 
-29 de mayo:
+### 29 de mayo:
 - Viajan de vuelta a Gorongo (demora 10 horas)
 	- Llevan 3 dias y 3 horas
 - Julianne les dice "no vayan a la placa 3024 pq hay un dragón"
@@ -66,7 +66,7 @@ Llevan 2 dia y 17 horas
 - Viajan a la placa 22 a ver si pueden upgradearle el firmware a JAL (toma un día)
 Llevan 4 dias y 20 horas.
 
-1 de Agosto:
+### 1 de Agosto:
 - En la placa 22, entran a la instalación
 - Exploran un poco, gracias a technological invisibility, Yalendori revisa la zona de mantenimiento, lootea, y luego vuelve con K
 - con la ayuda de K, hackean y desactivan las torretas del shaft, consiguen el permiso para entrar al reactor, y hackean los 3 drones predadores.
@@ -78,7 +78,7 @@ Llevan 4 dias y 20 horas.
 Llevan 4 días y 22 horas.
 
 
-4 de Septiembre:
+### 4 de Septiembre:
 - Bajaron por el SHAFT
 - Robaron dineros de un a terminal
 - LLegaron al CORE
@@ -93,7 +93,7 @@ Llevan 5 dias y 10 horas
 
 El viaje entre placas dura 1d6/5 dias.
 
-1 de Octubre
+### 1 de Octubre
 - Vuelven a Gorongo en 1 dia
 - K-71 se mete augmentations por 26 horas (22 horas en realidad)
 - Jal se conecta a la Base de datos de Clarke, y les cuenta de 2 placas donde hay megaarmas:
@@ -111,7 +111,7 @@ El viaje entre placas dura 1d6/5 dias.
 Llevan exactamente 8 dias.
 
 
-15 de Octubre
+### 15 de Octubre
 - Karli acelera el proceso de evacuación 15 horas
 - Viajan a la placa 5699 en 1.4 dias (llevan 9.4 dias) (faltan 26 horas para podre desactivar el beacon de Gorongo)
 - En la palca, ven restos de escombros y otras cosas debido a un meteorito, los drones están ocupados arreglandolo. 
@@ -123,9 +123,19 @@ Llevan exactamente 8 dias.
 Nylessa se demora 5 dias mas
 (con el dron, encuentran las coordenadas de una placa cercana con un megaradar que les permitiría saber mejor cuanto le falta para llegar a Nylessa)
 
-19 de Noviembre
+### 19 de Noviembre
 - Vaiajan de vuelta ala nave (1 hroa)
 - Pelean contra un dron que  se estaba robando la nave
 - Viajan a la placa 5698 a buscar el dron de Julijneane
 - La party hace un colonialismo, 25 goblins se  pvuelven parte de la tripulación.
 - Viajan al megaradar, entran sneaky, esquivando los 2 tekenkis que habían afuera.
+
+Llevan 9 dias y 16 horas
+
+### 3 de diciembre
+#### Prep
+En el megaradar, hay 3 salas conectadas por una zona central:
+- Sala de control: Donde se "pilotea" el radar.
+- Sala de datos: Donde se reciben y procesan los datos.
+- Sala de energía: Donde hay que reroutear la energía del radar a 
+
