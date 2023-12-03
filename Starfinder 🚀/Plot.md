@@ -130,7 +130,7 @@ Nylessa se demora 5 dias mas
 - La party hace un colonialismo, 25 goblins se  pvuelven parte de la tripulación.
 - Viajan al megaradar, entran sneaky, esquivando los 2 tekenkis que habían afuera.
 
-Llevan 9 dias y 16 horas. La evacuación está lista en 30 horas
+Llevan 9 dias y 16 horas. La evacuación está lista en 20 horas
 
 
 **Ahora que el beacon está reventado, segun los PJs, Nylessa llega en un intervalo de 11 a 26 dias desde que llegaron a Riven Shroud.**
