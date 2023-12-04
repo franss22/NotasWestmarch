@@ -172,6 +172,8 @@ Results:
 	55+: Saben que Nylessa llega el dia 17
 
 
-![[Pasted image 20231203180844.png]]![[Pasted image 20231203180929.png]]
-![[Pasted image 20231203181023.png]]
-![[Pasted image 20231203181257.png]]
+- Hacen el minijuego todo bien, obtienen la fecha exacta
+- Entre caminar y viajar, demoran 20 horas en llegar a gorongo
+- La evacuación está lista, si quieren pueden pitearse el beacon de Gorongo.
+- Taco nos ghosteó
+Llevan 10 dias y 12 horas.
