@@ -159,7 +159,7 @@ En la sala del Hackeo, en algun momento se activa una countermeasure y el hacker
 
 EL radar tiene 3 de hp y cada escombro que no paren le quita 1
 
-La formula del avance (en terabytes) de cada ronda es:
+La formula del avance (en petabytes) de cada ronda es:
 (1+hacking success)\*hp
 
 Min: 6
