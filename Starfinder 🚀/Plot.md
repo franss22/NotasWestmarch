@@ -135,45 +135,45 @@ Llevan 9 dias y 16 horas. La evacuación está lista en 20 horas
 
 **Ahora que el beacon está reventado, segun los PJs, Nylessa llega en un intervalo de 11 a 26 dias desde que llegaron a Riven Shroud.**
 ### 3 de diciembre
-#### Prep
-En el megaradar, hay 3 salas conectadas por una zona central:
-- Sala de control: Donde se "pilotea" el radar.
-- Sala de datos: Donde se reciben y procesan los datos.
-- Sala de energía: Donde hay que reroutear la energía del radar a las partes necesarias.
-
-Para hacer funcionar el radar deben: Hackear los controles para que alguien pueda pilotear el radar. Aparte de extednder las partes necesarias del radar, alguien tiene que estar en las torretas del radar piteandose escombros y meteoritos que se acerquen a la antena.
-
-Al mismo tiempo, alguien tiene que estar en la sala de energía, rerouteando zenenrgía entre el radar y las armas. Cada vez que las torretas se queden sin energía, el de la sala de energía tiene que pasar engineering para recargar la torreta.
-
-Mientras tanto, alguien tiene que ir haciendo computers y hacking checks para procesar la información y enviarla a la nave.
-
-Además, al activar el radar, varios defensores de la placa se activan y vienen a revisar que onda, asi que tiene que haber alguien afuera para mentenerlos a raya, ya sea bullshiteandolos o peleando contra ellos.
-
-Si fallan demasiados checks de hacking, los tekenkis cachan las transimisiones y viene  a webear. Si fallan demasiado en parar los meteoritos, puede que la antena haga kaput  se detenga el temita. Si fallan en tener piola a los defensores, puede morir alguien.
-
-Mientras mas datos consigan, mas chico es el intervalo de confianza que obitnene sobre cuando llega nylessa.
-
-En algun momento del proceso, algo sale mal en la sala de energía y empieza un incendio/a entrar radiación. La sala de energía tiene radiacion baja (immunes por armadura), asi que las badges les avisan.
-
-En la sala del Hackeo, en algun momento se activa una countermeasure y el hacker es atacado por un holograma viviente.
-
-EL radar tiene 3 de hp y cada escombro que no paren le quita 1
-
-La formula del avance (en petabytes) de cada ronda es:
-(1+hacking success)\*hp
-
-Min: 6
-Max: 60
-Results: 
-	0-14: Nada
-	15-24: Saben que Nylessa llega entre los dias 12-25
-	25-39: Saben que Nylessa llega entre los dias 14-22
-	40-54: Saben que Nylessa llega entre los dias 16-20
-	55+: Saben que Nylessa llega el dia 17
+Prep
+	En el megaradar, hay 3 salas conectadas por una zona central:
+	- Sala de control: Donde se "pilotea" el radar.
+	- Sala de datos: Donde se reciben y procesan los datos.
+	- Sala de energía: Donde hay que reroutear la energía del radar a las partes necesarias.
+	
+	Para hacer funcionar el radar deben: Hackear los controles para que alguien pueda pilotear el radar. Aparte de extednder las partes necesarias del radar, alguien tiene que estar en las torretas del radar piteandose escombros y meteoritos que se acerquen a la antena.
+	
+	Al mismo tiempo, alguien tiene que estar en la sala de energía, rerouteando zenenrgía entre el radar y las armas. Cada vez que las torretas se queden sin energía, el de la sala de energía tiene que pasar engineering para recargar la torreta.
+	
+	Mientras tanto, alguien tiene que ir haciendo computers y hacking checks para procesar la información y enviarla a la nave.
+	
+	Además, al activar el radar, varios defensores de la placa se activan y vienen a revisar que onda, asi que tiene que haber alguien afuera para mentenerlos a raya, ya sea bullshiteandolos o peleando contra ellos.
+	
+	Si fallan demasiados checks de hacking, los tekenkis cachan las transimisiones y viene  a webear. Si fallan demasiado en parar los meteoritos, puede que la antena haga kaput  se detenga el temita. Si fallan en tener piola a los defensores, puede morir alguien.
+	
+	Mientras mas datos consigan, mas chico es el intervalo de confianza que obitnene sobre cuando llega nylessa.
+	
+	En algun momento del proceso, algo sale mal en la sala de energía y empieza un incendio/a entrar radiación. La sala de energía tiene radiacion baja (immunes por armadura), asi que las badges les avisan.
+	
+	En la sala del Hackeo, en algun momento se activa una countermeasure y el hacker es atacado por un holograma viviente.
+	
+	EL radar tiene 3 de hp y cada escombro que no paren le quita 1
+	
+	La formula del avance (en petabytes) de cada ronda es:
+	(1+hacking success)\*hp
+	Min: 6
+	Max: 60
+	Results: 
+		0-14: Nada
+		15-24: Saben que Nylessa llega entre los dias 12-25
+		25-39: Saben que Nylessa llega entre los dias 14-22
+		40-54: Saben que Nylessa llega entre los dias 16-20
+		55+: Saben que Nylessa llega el dia 17
 
 
 - Hacen el minijuego todo bien, obtienen la fecha exacta
 - Entre caminar y viajar, demoran 20 horas en llegar a gorongo
 - La evacuación está lista, si quieren pueden pitearse el beacon de Gorongo.
+- Suben a lvl 16
 - Taco nos ghosteó
 Llevan 10 dias y 12 horas.
