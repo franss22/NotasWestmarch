@@ -1,5 +1,5 @@
 Lair actions:
 - The lich targets one creature it can see within 30 feet of it. A crackling cord of negative energy tethers the lich to the target. Whenever the lich takes damage, the target must make a DC 18 Constitution saving throw. On a failed save, the lich takes half the damage (rounded down), and the target takes the remaining damage. This tether lasts until initiative count 20 on the next round or until the lich or the target is no longer in the lich's lair.
 - The avatar targets any amount of creatures within it's lair. They must make a DC 22 Constitution saving throw or lose 2 points of constitution.
-- Until the next initiative 20, any creature of the avatar's choosing that is healed loses an amount of max hp equal to half of the healed amount.
+- Until the next initiative 20, any creature of the avatar's choosing that is healed loses an amount of max HP equal to half of the healed amount.
 - Pull soul: The avatar targets any amount of creatures within 40ft of itself. They must make a charisma DC 22 save or have their soul almost leave their body and receive 3d12 necrotic damage, losing the same amount of max hp. They have disadvantage on all d20 rolls until the next initiative 20.
