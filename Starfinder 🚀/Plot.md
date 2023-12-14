@@ -177,3 +177,6 @@ Prep
 - Suben a lvl 16
 - Taco nos ghosteó pq nos odia
 Llevan 10 dias y 12 horas.
+
+
+Placa 3704: pueblo "abandonado"
