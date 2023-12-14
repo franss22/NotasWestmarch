@@ -99,7 +99,7 @@ El viaje entre placas dura 1d6/5 dias.
 - Jal se conecta a la Base de datos de Clarke, y les cuenta de 2 placas donde hay megaarmas:
 	- La placa 8, que tiene un constructo brigido protegiendola
 	- La placa 5699 (al lado del dron perdido, 2 horas de viaje), que tiene un campo de slow, y se van a demorar 1d6+1/5 en vez de 1d6 en el viaje.
-	- La placa 3500, donde están los eoxianos.
+	- La placa 3500, donde están los eoxianos, en la zona oscura.
 - Recordatorio de los 3 beacons, que pueden destruir/desactivar para retrasar a Nylessa (se demora 2d4 dias extra):
 	  Uno en órbita, que deben destruir con una megaarma
 	  Uno en el lado oscuro de la esfera
