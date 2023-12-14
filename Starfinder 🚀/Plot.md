@@ -175,5 +175,5 @@ Prep
 - Entre caminar y viajar, demoran 20 horas en llegar a gorongo
 - La evacuación está lista, si quieren pueden pitearse el beacon de Gorongo.
 - Suben a lvl 16
-- Taco nos ghosteó
+- Taco nos ghosteó pq nos odia
 Llevan 10 dias y 12 horas.
