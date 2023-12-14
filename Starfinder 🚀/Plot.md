@@ -180,3 +180,4 @@ Llevan 10 dias y 12 horas.
 
 
 Placa 3704: pueblo "abandonado"
+Jgklmn , el tlkprtgqwpbvn se une a la crew
