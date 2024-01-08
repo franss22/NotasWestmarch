@@ -189,4 +189,6 @@ Jgklmn , el tlkprtgqwpbvn se une a la crew
 Llevan 10 dias y 14 horas.
 - Dejan a los goblins crafteando 3k worth the serum of regen mk2
 - Desactivan el beacon de Gorongo (demoran 1 hora)
+- Pelearon contra los azlanti
+- Hugo y Mary se unen a la party
 - 
