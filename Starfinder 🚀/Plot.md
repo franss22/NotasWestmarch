@@ -179,5 +179,14 @@ Prep
 Llevan 10 dias y 12 horas.
 
 
+
+## ??? de diciembre
 Placa 3704: pueblo "abandonado"
 Jgklmn , el tlkprtgqwpbvn se une a la crew
+
+
+## 7 de Enero
+Llevan 10 dias y 14 horas.
+- Dejan a los goblins crafteando 3k worth the serum of regen mk2
+- Desactivan el beacon de Gorongo (demoran 1 hora)
+- 
