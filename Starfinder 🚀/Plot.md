@@ -196,4 +196,4 @@ Llevan 10 dias y 16 horas
 (viajar toma (1d6+1.5)/5 dias)
 
 ## 28 De Enero
-Deciden viajar al pueblo en la zona oscura (hay un enredo en los numeros, pero están en el día 14, con 9 horas)
+Deciden viajar al pueblo en la zona oscura (Skotadi) (hay un enredo en los numeros, pero están en el día 14, con 9 horas)
