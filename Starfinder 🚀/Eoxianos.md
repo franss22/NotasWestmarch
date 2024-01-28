@@ -1,6 +1,6 @@
 En la placa 3500 hay un grupo de 15 eoxianos en un campamento
 
-Los eoxianos están investigando la esfera, especificamente para entender como funcoinan los sistemas de defensa de la esfera y usarlos en sus naves. Como grupo, no están involucrados con el culto de Nylessa. 
+Los eoxianos están investigando la esfera, especificamente para entender como funcionan los sistemas de defensa de la esfera y usarlos en sus naves. Como grupo, no están involucrados con el culto de Nylessa. 
 
 El jefe de los Eoxianos, Acelark, desconfía de los PJs, pensando que quieren robarles las armas (lo que es en parte verdad), asi que es bastante reacio a darles la información que tienen (que ha sido en parte contaminada por Girran). Sin embargo, los PJs pueden tratar de usar diplomacia para convencerlo del peligro, o stealth para robar la información, o simplemente matar a los eoxianos. Si los PJs usan dilpomacia, pueden usar la promesa de compartir las armas como bargainig chip. Si lo hacen, los eoxianos prometen un necrograft mk4 gratis para cada PJ una vez traigan la info.
 
