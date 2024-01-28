@@ -191,4 +191,9 @@ Llevan 10 dias y 14 horas.
 - Desactivan el beacon de Gorongo (demoran 1 hora)
 - Pelearon contra los azlanti
 - Hugo y Mary se unen a la party
-- 
+Llevan 10 dias y 16 horas
+(Luego de romper el beacon, nylessa llega el dia 21)
+(viajar toma (1d6+1.5)/5 dias)
+
+## 28 De Enero
+Deciden viajar al pueblo en la zona oscura (hay un enredo en los numeros, pero están en el día 14, con 9 horas)
