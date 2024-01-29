@@ -197,3 +197,5 @@ Llevan 10 dias y 16 horas
 
 ## 28 De Enero
 Deciden viajar al pueblo en la zona oscura (Skotadi) (hay un enredo en los numeros, pero están en el día 14, con 9 horas)
+- Ven a Nylessa casi salir del drift. Karli contrae una enfermedad mental. (will DC 22)
+- 
