@@ -199,3 +199,8 @@ Llevan 10 dias y 16 horas
 Deciden viajar al pueblo en la zona oscura (Skotadi) (hay un enredo en los numeros, pero están en el día 14, con 9 horas)
 - Ven a Nylessa casi salir del drift. Karli contrae una enfermedad mental. (will DC 22)
 - Llegan a Skotadi, encuentran un par de NPCs, alertan a los fantasmas y están peleando. el objetivo es salvar a uno de los NPCs q está inconsciente, ponerse las turbofusiones que tiene, y salir corriendo.
+
+# 18 de Marzo
+Pelean contra el tistlistils mitl y lo derrotan, ganando muchisimo dinero en el proceso (pueden vender el cuerpo por 782k, quizas mas a los eoxianos)
+Suben de nivel a 17
+K, Karli y Bahamel tienen 2 niveles negativos (drain) duran 24 horas, tras lo cual deben hacer un save dc 19 fortitude,. Si pasan, se acaban, si fallan se vuelven permanentes.
